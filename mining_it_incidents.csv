@@ -1,0 +1,11 @@
+incident_id,date,site,system,issue_type,severity,downtime_minutes,resolved
+1,2024-01-03,Pilbara,Drill Control System,Network Failure,High,120,Yes
+2,2024-01-04,Pilbara,Truck Dispatch System,Software Bug,Medium,45,Yes
+3,2024-01-06,Kalgoorlie,Drill Control System,Sensor Failure,High,90,Yes
+4,2024-01-07,Kalgoorlie,Site Network,Network Failure,High,180,No
+5,2024-01-09,Pilbara,Maintenance System,User Error,Low,15,Yes
+6,2024-01-11,Pilbara,Truck Dispatch System,Hardware Failure,High,200,Yes
+7,2024-01-13,Kalgoorlie,Site Network,Configuration Error,Medium,60,Yes
+8,2024-01-15,Pilbara,Drill Control System,Software Bug,Medium,50,Yes
+9,2024-01-18,Pilbara,Maintenance System,Network Failure,High,110,No
+10,2024-01-20,Kalgoorlie,Truck Dispatch System,User Error,Low,20,Yes
